@@ -5,6 +5,7 @@
 #include <cmath>
 
 using namespace std;
+
 const double eps = 1e-9;
 struct Point {
 	long double x, y;
